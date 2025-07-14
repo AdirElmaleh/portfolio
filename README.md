@@ -47,7 +47,7 @@ EZ Locksmith is a custom tool built to manage technician jobs, form submissions,
 ## 📫 Contact
 
 **Email:** adirelmaleh@gmail.com  
-**LinkedIn:** [linkedin.com/in/adirelmaleh](https://www.linkedin.com/in/adirelmaleh/)  
+**LinkedIn:** [linkedin.com/in/adirelmaleh](https://www.linkedin.com/in/adir-elmaleh-2994a1269)  
 **GitHub:** [github.com/adirelmaleh](https://github.com/adirelmaleh)
 
 ---
